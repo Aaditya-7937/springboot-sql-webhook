@@ -1,0 +1,5 @@
+com\example\autosolver\AutoSolverApplication$GenerateWebhookResponse.class
+com\example\autosolver\AutoSolverApplication$GenerateWebhookRequest.class
+com\example\autosolver\StartupRunner.class
+com\example\autosolver\AutoSolverApplication$SubmitRequest.class
+com\example\autosolver\AutoSolverApplication.class
